@@ -1,6 +1,81 @@
 .App {
   text-align: center;
 }
+.student{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.student table,th,td{
+
+    border:1px solid black;
+  }
+  .student th,td{
+    width:50%;
+  }
+  .one{
+  
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(202, 94, 94);
+    height:50px;
+    font-size:large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: row;
+    gap:340px;
+  }
+  
+  .one img{
+    height:50px;
+    width:80px;
+    
+  }
+  .one-in{
+  float: left;
+     
+  }
+  
+.header a{
+  display: flex;
+  flex-direction: row;
+  text-decoration: none;
+  background: #61dafb;
+  color: red;
+
+}
+.header{
+  gap: 20%;
+
+}
+.two{
+  display:flex;
+  flex-direction: column;
+  padding-bottom: 10px;
+  background-color:white;
+  width:20%;
+  height:870px;
+
+
+}
+.two a{
+  padding: 5px;
+  text-decoration: none;
+  background-color: black;
+  border-radius: 5px;
+  color:white;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  height:40px;
+
+
+}
 
 .App-logo {
   height: 40vmin;
