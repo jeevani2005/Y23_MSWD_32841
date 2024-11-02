@@ -2,6 +2,11 @@
 	"folders": [
 		{
 			"path": "../../.."
+		},
+		{
+			"name": "Y23_MSWD_32841-1",
+			"path": "../../../../../Desktop/git/Y23_MSWD_32841-1"
 		}
-	]
+	],
+	"settings": {}
 }

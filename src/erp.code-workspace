@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../New folder/Class/erp"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "klu"
+	}
+}
